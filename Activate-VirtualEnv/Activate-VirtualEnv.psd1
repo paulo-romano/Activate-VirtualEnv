@@ -8,7 +8,7 @@
 
 @{
 
-ModuleToProcess = Activate-VirtualEnv
+ModuleToProcess = 'Activate-VirtualEnv.psm1'
 ModuleVersion = '0.1'
 GUID = 'd57664f1-89bb-4a23-9d79-423fe174ba01'
 Author = 'Paulo Romano'
