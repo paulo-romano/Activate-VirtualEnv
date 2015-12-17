@@ -2,16 +2,9 @@
 Helper to activate Python 3 Virtual Enviroments on Windows Powershell
 
 # Instalation 
+You can install it manualy:
 
-Not working yet
-Run the following statement in PowerShell:
-
-(new-object Net.WebClient).DownloadString("https://raw.githubusercontent.com/paulo-romano/Activate-VirtualEnv/master/GetActivate-VirtualEnv.ps1") | iex
-This will download the instalation script and run it.
-
-Alternatively, you can install it manualy:
-
-1. Download and Copy Activate-VirtualEnv.psm1 to modules folder
+1. Download and copy the folder Activate-VirtualEnv to modules location
 2. Execute Import-Module Activate-VirtualEnv
 
 #Usage
